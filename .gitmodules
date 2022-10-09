@@ -1,0 +1,6 @@
+[submodule "DonationSmartContract/donation-js"]
+	path = DonationSmartContract/donation-js
+	url = https://github.com/near-examples/donation-js.git
+[submodule "DonationSmartContract/donation-rust"]
+	path = DonationSmartContract/donation-rust
+	url = https://github.com/near-examples/donation-rust.git
