@@ -1,7 +1,6 @@
 ## **Two options for development:**
 
-a) Using web-based Gitpod environment - ready to code straight away
-    links below: 
+a) Using web-based Gitpod environment, ready to code straight away; links below: 
     - JS code: https://gitpod.io/#https://github.com/near-examples/donation-js
     - Rust code: https://gitpod.io/#https://github.com/near-examples/donation-rust
     - AssemblyScript: https://gitpod.io/#https://github.com/near-examples/docs-examples/blob/main/donation-as 
